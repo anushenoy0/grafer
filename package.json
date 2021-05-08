@@ -1,0 +1,27 @@
+{
+  "name": "grafer",
+  "version": "1.0.0",
+  "description": "grapher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anushenoy0/grafer.git"
+  },
+  "author": "sahana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anushenoy0/grafer/issues"
+  },
+  "homepage": "https://github.com/anushenoy0/grafer#readme",
+  "devDependencies": {
+    "jsonfile": "^6.1.0",
+    "simple-git": "^2.38.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "random": "^3.0.6"
+  }
+}
